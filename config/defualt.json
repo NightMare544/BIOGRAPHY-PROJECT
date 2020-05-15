@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost/mern",
+  "jwtSecret": "mysecrettoken",
+  "githubClientID": "",
+  "githubSecret": ""
+}
